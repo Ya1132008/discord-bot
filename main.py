@@ -29,4 +29,4 @@ async def on_message(ctx):
 
 
 
-bot.run("token")
+bot.run("TOKEN")
